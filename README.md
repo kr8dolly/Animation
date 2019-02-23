@@ -1,2 +1,2 @@
 # Animation
-Puthon animation
+Python animation
